@@ -120,3 +120,34 @@ The purpose of the online examination system is to test the subject knowledge of
 
 ### Class Diagram 
 ![Class Diagram](https://user-images.githubusercontent.com/114462074/205432433-178a76ac-4dd8-492c-bff4-15f6e0bcc02f.jpg)
+
+### Object Diagram
+![Object Diagram](https://user-images.githubusercontent.com/114462074/205432784-01a721f3-6cb8-4754-b9af-0936069c5320.jpg)
+
+### Componant Diagram
+![Component Diagram](https://user-images.githubusercontent.com/114462074/205432807-cb067bce-5824-4d16-8ae9-528ffe73e517.jpg)
+
+### Deployment Diagram
+![Deployment Diagram](https://user-images.githubusercontent.com/114462074/205432842-46c4bc8c-5f87-4e8e-97ff-9145f88d854e.png)
+
+### Use Case Diagram
+![Use Case Diagram](https://user-images.githubusercontent.com/114462074/205432865-47b33a69-163d-4271-9c32-2aa1a7115208.png)
+
+### Activity Diagram
+ __1 . Student Activity__
+ ![1 Student (Activity) Diagram](https://user-images.githubusercontent.com/114462074/205432914-04eb3d00-1d9e-4496-9987-a1a1c6fcab18.png)
+
+__2 . Teacher Activity__
+![2 Teacher (Activity) Diagram](https://user-images.githubusercontent.com/114462074/205432933-4b44159a-e1fe-4d58-b4de-d99e1243983a.png)
+
+__3 . Admin Activity__
+![3  Admin (Activity) Diagram](https://user-images.githubusercontent.com/114462074/205432957-625953c0-2ce3-40a2-a64a-08d5e7cbde55.png)
+
+### Sequence Daigram
+![Sequence Diagram](https://user-images.githubusercontent.com/114462074/205432977-e4bf7ae7-d152-457f-b0a1-f78c3464c8f4.png)
+
+### Collaboration diagram
+![Collaboration Diagram](https://user-images.githubusercontent.com/114462074/205432997-e70ca869-83bd-46a4-86c6-5c8e92bdd710.jpg)
+
+### State diagram
+![State Diagram](https://user-images.githubusercontent.com/114462074/205433013-c826c3e9-e35c-46e8-9d04-46f3ae6bfe32.png)
