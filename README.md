@@ -1,15 +1,15 @@
-# Project Title : - Examination Portal
-
+# Project Title : - Online Examination System
+***
 ## Contributors : - 
    1. Hardik Pachange
    2. Om Bhoge
    3. Tanmay Mitkari
    4. Praveen Tripathi
-
+***
 ## Introduction : -
 
-   The online exam system project in Python focuses mainly on dealing with student’s examinations. Also, the system displays all the question sets. In addition, the system allows managing question set by entering questions, options, and answers. This project is divided into three categories: Student, Teacher, and Admin Panel. In an overview of this web application, a student can simply register and start using it. Here, the system displays all the exams for the student. And the student can proceed to attend their examinations. All the exams are of MCQ type. After submission of answers, the student can view his/her marks with their number of attempts under respective courses. The system also counts the number of attempts a student takes in order to complete the exam.
-   
+   The online exam system project in Python focuses mainly on dealing with student’s examinations. Also, the system displays all the question sets. In addition, the system allows managing question set by entering questions, options, and answers. This project is divided into three categories: Student, Teacher, and Admin Panel. In an overview of this web application, a student can simply register and start using it. Here, the system displays all the exams for the student. And the student can proceed to attend their examinations. All the exams are of MCQ type. After submission of answers, the student can view his/her marks with their number of attempts under respective courses. The system also counts the number of attempts a student takes in order to complete the exam. 
+***  
    
 ## Existing System : -
   
@@ -23,12 +23,14 @@
       5. Needs manual calculation
       6. Needs to go examination hall to attend papers
 
+***
 ## Need for the System : -
       
 
   Online Examination System is a computerized system which gives instant results and also saves time. It fully automates 
   the previous manual process of taking written exam schemes. Students can study independently for example at home or any place.
 
+***
 
 ## Scope of Work : -
  
@@ -40,6 +42,7 @@ It may help to take examination easily without any hard work of writing question
 3.	Easy to operate
 4.	To assist the teachers and students.
 
+***
 
 ## System requirement : -
 
@@ -72,12 +75,14 @@ It may help to take examination easily without any hard work of writing question
    Operating System-windows	
    Browser-Mozilla Firefox, Chrome
 
+***
 
 ## PROPOSED SYSTEM
 
 The purpose of the online examination system is to test the subject knowledge of the students. Such a system eliminates logistical hassles and drawbacks in the traditional mode of the pen-and-paper examination. Students don't have to assemble in the classroom to give the exam. They can do it within a given time frame from their own device. You don't have to rent a classroom.
 In an overview of this web application, a student can simply register and start using it. Here, the system displays all the exams for the student. And the student can proceed to attend their examinations. All the exams are of MCQ type. After submission of answers, the student can view his/her marks with their number of attempts under respective courses. The system also counts the number of attempts a student takes in order to complete the exam.
 
+***
 
 ## Module specifications 
 
@@ -108,13 +113,16 @@ In an overview of this web application, a student can simply register and start 
    
    Student can register by filling information and after login students can attempt the exam, and can check their results.
    
- 
+***
+
 ## Objective Of System
 
 The purpose of the online examination system is to test the subject knowledge of the students. Such a system eliminates logistical hassles and drawbacks in the traditional mode of the pen-and-paper examination. Students don't have to assemble in the classroom to give the exam. Students can attempt it from anywhere.
 
 + An online exam system that will allow to attend exams online from home or any place.
 + Teachers can take exam without paper.
+
+***
 
 ## Diagrams
 
@@ -194,7 +202,7 @@ The purpose of the online examination system is to test the subject knowledge of
 
    ### Data Dictionary
 ![2](https://user-images.githubusercontent.com/114462074/205434056-fe38bb31-98ea-4cdc-bf7a-b42dbe53fa36.jpg)
-
+***
 ## Output Screen
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/114462074/205436634-5afcf6d1-79bb-413d-a53d-8a4fda8d00f5.png)
@@ -244,3 +252,78 @@ The purpose of the online examination system is to test the subject knowledge of
 ![Screenshot (76)](https://user-images.githubusercontent.com/114462074/205436633-7f3844d7-7a0a-4350-81fc-c6a61d8a61fd.png)
 
 ![Screenshot (63)](https://user-images.githubusercontent.com/114462074/205436658-7019d9fc-3a65-4c6f-a373-82fd2133b4a7.png)
+
+***
+
+## Data Reports
+To solve actual problems in an industry, software developer or a team of developers must incorporate a development strategy that encompasses the process, methods and tools layers and generic phases. This strategy is often referred to as process model or a software developing paradigm A process model for software developing is chosen based on the nature of project and application, the methods and tools to be used, and the controls and deliverables that are required. All software development can be characterized as a problem-solving loop in which four distinct stages are encountered: Status quo, Problem definition, technical development and solution integration.
+Regardless of the process model that is chosen for a software project all of the stages coexist simultaneously at some level of detail. Developing this project with a primary goal of learning new technologies, I have got immense exposure in understanding technologies not only at the implementation level but also in understanding the background of such technologies
+Some of the major challenges faced was in understanding the concepts and implementing them in the application. To debug, test and run the application I have encountered many cutting-edge technologies and learnt about them. This is to conclude that the project that I undertook was worked upon with a sincere effort Most of the requirements have been fulfilled up to the mark and the requirements which have been remaining can be completed with a short extension
+***
+## Sample Code
+         `{%extends 'teacher/teacherbase.html' %}
+          {% load widget_tweaks %}
+          {% block content %}
+          {% if messages %}
+          {% for message in messages %}
+            <div>
+               <strong>{{message|safe}}</strong>
+            </div>
+         {% endfor%}
+         {% else %}
+
+         <head>
+            <meta charset="utf-8">
+              <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+               <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+               <style type="text/css">
+                  .bs-example {
+                   margin: 0px;
+
+                  }
+             .bg-dark {
+             background-color: #212529!important;
+            }
+        .navbar-brand {
+         font-size: 20px;
+         font-family: sans-serif;
+
+          }
+         </style>
+         </head>
+         <section id="section-jumbotron" class="jumbotron jumbotron-fluid d-flex justify-content-center align-items-center">
+          <div class="container text-center">
+           <h2 class="display-6 text-info">{{order}}</h2>
+            <p >like as (marks,question,Option1,Option2,Option3,Option4,answer,course_id)</p>
+          <p class="display-4 d-none d-sm-block">Upload a file</p>
+          <p><strong> only accepts csv files</strong></p>
+            <form method="post" enctype="multipart/form-data">
+            {% csrf_token%}
+             <i   aria-hidden="true"><input type="file" name="file"></i>
+             <br><br><button class="btn btn-success " type="submit">Upload</button>
+            </form>
+             <br><br><br>
+             </div>
+           </section>
+
+          <label></label>
+         <p></p>
+         {% endif %}
+         <!--</body>-->
+         <!--</html>-->
+         {% endblock content%}`
+
+***
+
+## Limitations
+
+   1. Transition to open book system.
+   2. Difficulty in long answer type
+   3. Susceptible to cheating
+
+## Web Refer
+
+   1. www.python.org
+   2. www.w3school.com/python
+   3. www.tutorialpoint.com/python
+   4. www.youtube.com/PythonDjangoProject
