@@ -116,3 +116,7 @@ The purpose of the online examination system is to test the subject knowledge of
 + An online exam system that will allow to attend exams online from home or any place.
 + Teachers can take exam without paper.
 
+## Diagrams
+
+### Class Diagram 
+![Class Diagram](https://user-images.githubusercontent.com/114462074/205432433-178a76ac-4dd8-492c-bff4-15f6e0bcc02f.jpg)
