@@ -195,3 +195,52 @@ The purpose of the online examination system is to test the subject knowledge of
    ### Data Dictionary
 ![2](https://user-images.githubusercontent.com/114462074/205434056-fe38bb31-98ea-4cdc-bf7a-b42dbe53fa36.jpg)
 
+## Output Screen
+
+![Screenshot (53)](https://user-images.githubusercontent.com/114462074/205436634-5afcf6d1-79bb-413d-a53d-8a4fda8d00f5.png)
+
+![Screenshot (54)](https://user-images.githubusercontent.com/114462074/205436635-8c8d5b2d-0d2a-4ac5-92cb-f68b8cb2d00c.png)
+
+![Screenshot (55)](https://user-images.githubusercontent.com/114462074/205436639-0f5821ad-52b2-4e8d-b5e0-cc49d06a4d73.png)
+
+![Screenshot (56)](https://user-images.githubusercontent.com/114462074/205436640-cb855c59-67bb-4442-b73d-4871d9078bf7.png)
+
+![Screenshot (57)](https://user-images.githubusercontent.com/114462074/205436642-42026f35-219e-4da7-9e15-617e9c595455.png)
+
+![Screenshot (58)](https://user-images.githubusercontent.com/114462074/205436646-a0fa6fe7-1ff2-4ef3-8e72-0150ec3f0e33.png)
+
+![Screenshot (59)](https://user-images.githubusercontent.com/114462074/205436648-fd2ddffa-3853-45d2-b251-0beec1325adf.png)
+
+![Screenshot (60)](https://user-images.githubusercontent.com/114462074/205436649-0a25fdf3-6dfd-4461-8654-84a09967ae3b.png)
+
+![Screenshot (61)](https://user-images.githubusercontent.com/114462074/205436652-21b82279-edbb-4771-abb7-b728ce791f08.png)
+
+![Screenshot (62)](https://user-images.githubusercontent.com/114462074/205436654-9a8a1aff-4c45-4797-abfd-7d67ced2f9de.png)
+
+![Screenshot (64)](https://user-images.githubusercontent.com/114462074/205436660-114ccaeb-06c0-4664-8843-9af335df01ac.png)
+
+![Screenshot (65)](https://user-images.githubusercontent.com/114462074/205436661-d80bf8c2-a126-4d93-bd33-3f71841dc2c1.png)
+
+![Screenshot (66)](https://user-images.githubusercontent.com/114462074/205436664-93e428c3-1f86-4268-8ee2-7af654f37c90.png)
+
+![Screenshot (67)](https://user-images.githubusercontent.com/114462074/205436666-519824f5-d19f-4aa0-b512-6e3f693827bf.png)
+
+![Screenshot (68)](https://user-images.githubusercontent.com/114462074/205436669-15ee254c-85c3-42bc-a3f3-a5de06ff4e43.png)
+
+![Screenshot (69)](https://user-images.githubusercontent.com/114462074/205436672-bdbe4556-1398-4df9-ba55-31ac1f0f328e.png)
+
+![Screenshot (70)](https://user-images.githubusercontent.com/114462074/205436675-489c56a7-9fb5-411b-9505-aa7074cf2db5.png)
+
+![Screenshot (71)](https://user-images.githubusercontent.com/114462074/205436678-87f0ddfe-db7f-4875-bf15-f6e9c481495c.png)
+
+![Screenshot (72)](https://user-images.githubusercontent.com/114462074/205436680-8d6a6a30-0c4c-4061-9ee9-9f079dac6cfa.png)
+
+![Screenshot (73)](https://user-images.githubusercontent.com/114462074/205436683-ff6e566e-2a08-4f7e-ba39-10ddd2c820b4.png)
+
+![Screenshot (74)](https://user-images.githubusercontent.com/114462074/205436686-329beada-4659-4cf5-924f-be9aada52eac.png)
+
+![Screenshot (75)](https://user-images.githubusercontent.com/114462074/205436689-b25254ba-8d8b-4cc9-9fcb-5a33b26c5b3c.png)
+
+![Screenshot (76)](https://user-images.githubusercontent.com/114462074/205436633-7f3844d7-7a0a-4350-81fc-c6a61d8a61fd.png)
+
+![Screenshot (63)](https://user-images.githubusercontent.com/114462074/205436658-7019d9fc-3a65-4c6f-a373-82fd2133b4a7.png)
