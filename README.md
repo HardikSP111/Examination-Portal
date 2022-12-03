@@ -43,7 +43,7 @@ It may help to take examination easily without any hard work of writing question
 
 ## System requirement : -
 
-## Server-side requirement
+### Server-side requirement
 
 1. Hardware Requirements
    
@@ -60,7 +60,7 @@ It may help to take examination easily without any hard work of writing question
 
 
 
-## Client-side requirement
+### Client-side requirement
 1. Hardware Requirements:
    
    Processor-i3 or above	
