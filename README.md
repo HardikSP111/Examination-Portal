@@ -177,3 +177,21 @@ The purpose of the online examination system is to test the subject knowledge of
 ![State Diagram](https://user-images.githubusercontent.com/114462074/205433013-c826c3e9-e35c-46e8-9d04-46f3ae6bfe32.png)
 
 ***
+
+## Table Specification
+![1 Authorise User](https://user-images.githubusercontent.com/114462074/205433843-62ba8a86-a1c8-4f22-85d8-e16300693aac.png)
+
+![2  Student Table](https://user-images.githubusercontent.com/114462074/205434201-d8fd7b44-1668-4753-884a-a13a3e5c127b.png)
+
+![3  Teacher Table](https://user-images.githubusercontent.com/114462074/205434202-c2ba2465-4387-49ab-b178-940353dfad27.png)
+
+![4  Subject Table](https://user-images.githubusercontent.com/114462074/205434206-a86e5af5-a7fd-4a7b-84f8-49faed4fba74.png)
+
+![5  Question Table](https://user-images.githubusercontent.com/114462074/205434207-782a84f1-b12f-4763-8094-9c3e1f832559.png)
+
+![6  Result Table](https://user-images.githubusercontent.com/114462074/205434208-38af097e-322f-4e1f-9f8d-9011ddae7f4a.png)
+
+
+   ### Data Dictionary
+![2](https://user-images.githubusercontent.com/114462074/205434056-fe38bb31-98ea-4cdc-bf7a-b42dbe53fa36.jpg)
+
